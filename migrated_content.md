@@ -10,7 +10,7 @@ auto-migrated: 1
 ---
 # Main
 
-{{\#widget:PayPal Donation |target=_blank |budget=RFP_CRITERA }}
+\#widget:PayPal Donation |target=_blank |budget=RFP_CRITERA }}
 
 <div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
 
