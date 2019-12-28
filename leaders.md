@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Tom Brennan](mailto://tomb@owasp.org)
+* [Tom Brennan](mailto:tomb@owasp.org)
