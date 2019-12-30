@@ -40,8 +40,8 @@ auto-migrated: 1
 <td><h2 id="in_print">In Print</h2>
 <p>See below</p>
 <p>See below</p>
-<p><a href="https://www.owasp.org/images/a/a3/OWASP_RFP_Best_Pract.pdf">OWASP RFP CRITERIA</a></p>
-<p><a href="https://www.owasp.org/images/a/a3/OWASP_RFP_Best_Pract.pdf">OWASP RFP CRITERIA</a></p>
+<p><a href="/www-pdf-archive/OWASP_RFP_Best_Pract.pdf">OWASP RFP CRITERIA</a></p>
+<p><a href="/www-pdf-archive/OWASP_RFP_Best_Pract.pdf">OWASP RFP CRITERIA</a></p>
 <h2 id="presentation">Presentation</h2>
 <h2 id="presentation">Presentation</h2>
 <p>See Below.</p>
@@ -449,4 +449,4 @@ bid and requires our attention.
 d. Do you provide pro-bono training or consulting services or attach
 costs to them ? If yes what are the charges attached to them?
 
-[RFP-Criteria](Category:OWASP_RFP-Criteria "wikilink")
+[RFP-Criteria](Category:OWASP_RFP-Criteria )
